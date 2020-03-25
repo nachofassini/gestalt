@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gestalt/static/css/main.c81dd6b2.chunk.css",
+    "main.js": "/gestalt/static/js/main.7a44375c.chunk.js",
+    "main.js.map": "/gestalt/static/js/main.7a44375c.chunk.js.map",
+    "runtime-main.js": "/gestalt/static/js/runtime-main.5248e3ef.js",
+    "runtime-main.js.map": "/gestalt/static/js/runtime-main.5248e3ef.js.map",
+    "static/js/2.462c3a84.chunk.js": "/gestalt/static/js/2.462c3a84.chunk.js",
+    "static/js/2.462c3a84.chunk.js.map": "/gestalt/static/js/2.462c3a84.chunk.js.map",
+    "index.html": "/gestalt/index.html",
+    "precache-manifest.12add983d845979b463ff2b7658adb40.js": "/gestalt/precache-manifest.12add983d845979b463ff2b7658adb40.js",
+    "service-worker.js": "/gestalt/service-worker.js",
+    "static/css/main.c81dd6b2.chunk.css.map": "/gestalt/static/css/main.c81dd6b2.chunk.css.map",
+    "static/js/2.462c3a84.chunk.js.LICENSE.txt": "/gestalt/static/js/2.462c3a84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5248e3ef.js",
+    "static/js/2.462c3a84.chunk.js",
+    "static/css/main.c81dd6b2.chunk.css",
+    "static/js/main.7a44375c.chunk.js"
+  ]
+}
